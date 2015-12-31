@@ -1,0 +1,1 @@
+"(Command)"/add-achievement"(usage)"/add-achievement <achievement name> <way to earn achievement>"(command)"/achievement-list"(action)"shows list of achievements"(command)"/achievement-delete"(action)"deletes a achievement"(usage)"/achievement-delete <achievement name>
